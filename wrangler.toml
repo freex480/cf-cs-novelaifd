@@ -1,6 +1,6 @@
 name = "nai-proxy"
 main = "src/index.js"
-compatibility_date = "2024-03-20"
+compatibility_date = "2026-09-28"
 
 # 绑定你的 R2 数据库
 [[r2_buckets]]
