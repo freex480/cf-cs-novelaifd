@@ -1,0 +1,8 @@
+{
+  "name": "nai-proxy",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "fflate": "^0.8.2"
+  }
+}
